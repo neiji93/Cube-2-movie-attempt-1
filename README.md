@@ -3,3 +3,4 @@ Liké a Dream, due to m'y illness, i encounter a tesseract that bottom lignes ar
 the left corner must appear before bottom lined 
 if there id a possibllity to have programs running inside ghe tesseract, thie may be dchedulled by the scheduller here : https://github.com/neiji93/ImSecondHouston--ISH-OS.git
 may be absolutely maybe wrong.
+then it means we cannot have a server at thr moment ans then it means we must stay i' the same room at the start like the movie suggests it.
